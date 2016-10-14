@@ -1,0 +1,45 @@
+1.접근제한자
+  -자바에서 지원하는 보안 등급을 결정하는 키워드
+  -private -default-protected-public
+2.클래스에서 메서드의 역활
+ -멤버 변수를 제어하는 목적으로 많이 사용함
+3.은닉화
+ - 객체가 보유한 데이터는 보호하고, 객체가 보유한 데이터에 대한
+    제어는 개발자가 제공하는 메서드에 의해 제어하도록 개발하는 방법
+    (객체 지향 언어의 특징 중 하나)
+    멤버변수는 private로 외부의 접근을 막고, 이 막혀진 데이터에 대한
+    조회는 getter로 제공하고, 수정은 setter로 정의 한다.!!
+    get+단어(첫 철자는 대문자로..) - 예)public String getName(){   
+					return name;
+				}
+				public void setName(String name){
+					this.name=name;
+				}
+4.API Document의 뜻과 문서 html 생성법
+ -Application Programming Interface	
+ -어플리케이션 제작을 위해 제공되는 라이브러리....
+ -java설치 루트/bin/javadoc.exe
+  (주의)클래스는 public으로 선언되어 있어야 한다.!! 
+
+5.API 활용 방법 실습
+ -Java\jdk1.8.0_101\jre\lib\rt.jar (.class 집합이므로,매서드와 변수를 개발자가
+  알수 없다. 따라서 api document를 참조 해야 한다.)
+ -일반 파일을 압축 -zip등
+ -클래스 파일을 압축 -jar(Java archive)
+
+6.String 클래스의 특징
+ -실습
+7.자바에서 배열은 객체취급
+ -boolean[] arr = new boolean[3]; 반드시 배열의 크기가 명시되어야 한다.
+
+8.main()메서드 호출시 매개변수에 대해서
+
+9.has a
+ - 현실에 필요한 프로그램을 작성할때 객체 단독으로는 개발이 불가능 하다
+ -하여 클래스 내에 다른 객체를 보유하게 되는데 이때 보유하는 객체를
+ -has a 관계라고 한다.
+
+11.call by reference 실습
+ -메서드 호출시 넘겨지는 데이터가 주소값일때....
+ -넘겨진 주소값으로 어떤 처리를 할 경우 해당 주소값의 인스턴스가 
+  영향을 받는다.

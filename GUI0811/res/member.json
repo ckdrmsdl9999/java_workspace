@@ -1,0 +1,64 @@
+{
+	"members" : [
+		{
+			"name" : "이민정",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img1.jpg"	
+		},
+		{
+			"name" : "김연아",
+			"gender" : "여성",
+			"age" : 23,
+			"photo" : "C:/java_workspace/GUI0811/res/img2.jpg"	
+		},
+		{
+			"name" : "잘모름",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img3.jpg"	
+		},
+		{
+			"name" : "아이유",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img4.jpg"	
+		},
+		{
+			"name" : "설현",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img5.jpg"	
+		},
+		{
+			"name" : "잘모름",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img6.jpg"	
+		},
+		{
+			"name" : "이민정",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img7.jpg"	
+		},
+		{
+			"name" : "신인가수",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img8.jpg"	
+		},
+		{
+			"name" : "한예슬",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img9.jpg"	
+		},
+		{
+			"name" : "김민정",
+			"gender" : "여성",
+			"age" : 28,
+			"photo" : "C:/java_workspace/GUI0811/res/img10.jpg"	
+		}
+	]
+}

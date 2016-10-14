@@ -1,0 +1,9 @@
+#자바의 컬렉션 프레임웍에서 지원하는 객체중 Properties
+#라는 객체가 있는데, 이 객체는 Map의 자식이다...
+#따라서 key-value의 쌍으로 이루어진 데이터를 잘 처리한다.
+#java.util 안에 들어있다!!
+
+driver=oracle.jdbc.driver.OracleDriver
+url=jdbc:oracle:thin:@localhost:1521:XE
+user=shop
+password=shop

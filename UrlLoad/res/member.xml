@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+	<member>
+		<name>이경민</name>
+		<age>25</age>
+		<gender>상남자</gender>
+	</member>
+	<member>
+		<name>이현호</name>
+		<age>24</age>
+		<gender>상남자</gender>
+	</member>
+	<member>
+		<name>송영택	</name>
+		<age>25</age>
+		<gender>상남자</gender>
+	</member>
+</members>
